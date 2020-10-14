@@ -36,3 +36,12 @@ from master head
 show commit diffrence in two branches
 
     $ git log new-dev..master
+
+----------------------------------------------------------
+
+git stash
+--------
+
+git stashes are used to save all changes temporly mean pause your work for 
+some time if you are working on a branch and urgently you need to move on another branch without commit changes so for that you have stash you changes
+move to you requried branch and after that when work completed you come back and start working on your branch with stash
