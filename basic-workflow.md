@@ -35,3 +35,5 @@ git add <file-name>
 this command use to commit changes to local repo
 
 git commit -m "my commit"
+
+newcommit 
