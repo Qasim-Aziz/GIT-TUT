@@ -64,4 +64,6 @@ if you want to clear your stashes
 
 git stash clear
 
+-----------------------------------------------
+
 
