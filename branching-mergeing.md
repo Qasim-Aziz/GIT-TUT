@@ -60,3 +60,8 @@ in this stash@{1} you get from git stash list
 
 git stash apply stash@{1}
 
+if you want to clear your stashes
+
+git stash clear
+
+
