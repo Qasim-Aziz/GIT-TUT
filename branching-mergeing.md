@@ -45,3 +45,18 @@ git stash
 git stashes are used to save all changes temporly mean pause your work for 
 some time if you are working on a branch and urgently you need to move on another branch without commit changes so for that you have stash you changes
 move to you requried branch and after that when work completed you come back and start working on your branch with stash
+
+commands
+
+git stash
+
+git stash save my-stash
+
+git stash list
+
+git stash pop
+
+in this stash@{1} you get from git stash list
+
+git stash apply stash@{1}
+
