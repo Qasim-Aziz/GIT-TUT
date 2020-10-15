@@ -15,6 +15,10 @@ this command will create branch but not checkout master
 
     $git branch <branch-name>
 
+if you want to delete any remote branch you can do 
+
+    $ git branch -dr <branch-name>
+
 this command will create new branch and checkout from master to newly created branch
 
     $git checkout -b <branch-name>
