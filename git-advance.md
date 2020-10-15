@@ -15,3 +15,13 @@ Forking
 when you want to work on someone else's repository on which you dont have write access, you create fork of it
 
 this is mostly done with pulic projects where community contributes
+
+you just go to repos which you want to fork and press the button fork 
+
+fork will create a repos copy and create your account repos
+
+now you can write code on it and push changes and comment on your repos so
+if you want to send these changes to owner you can create pull request 
+and send him for merge .........
+
+----------------------------------------------------------------------
