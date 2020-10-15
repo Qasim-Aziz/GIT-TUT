@@ -45,6 +45,15 @@ show commit diffrence in two branches
 
     $ git log new-dev..master
 
+when you merge branches there will be two senerio one it fast-forward merge
+Fast-forward-merge
+------------------
+when we created dev branch from master and keeep working on dev. at this time master branch is stoped and didnt do any work on master so there will be no more commits, when we completed work on dev we want to merge it into master, simple checkout on master and call git merge dev so this is a
+fast-forward merge
+
+another senerio is where we working on dev and make many commit, same time someone is working os master and make some addtional commits so when we mege dev into master github will create another commit called merge commit ...
+
+
 ----------------------------------------------------------
 
 git stash
