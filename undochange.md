@@ -17,6 +17,10 @@ if you want to delete commited changes you can do
 
     $git revert <commit-hash>
 
-
+this will reset you at required commit it move you head on require commit and discard all commit from history .......
 
     $git reset --hard <commit-hash>
+
+if you want to reset --hard but keep changes available 
+
+    $git reset --keep <commit-hash>
