@@ -3,4 +3,3 @@ when you dont want to make detail history like created dev branch from master an
     $git rebase <branch-name>
 
     $git rebase dev
-    
